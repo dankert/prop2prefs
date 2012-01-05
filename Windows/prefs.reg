@@ -1,0 +1,11 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\JavaSoft\prefs\prop]
+"test2"="Test 2"
+"test1"="Test 1"
+
+[HKEY_CURRENT_USER\Software\JavaSoft\prefs\prop\subpackage]
+"tTest1"="Test 1"
+"t_Test1"="Test 1"
+"t_test2"="Test 1"
+
